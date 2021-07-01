@@ -1,0 +1,14 @@
+{
+  "name": "baseproject",
+  "version": "1.0.0",
+  "description": "Base project with ExpressJS & EJS.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "riddlenight",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
